@@ -1,0 +1,7 @@
+datasets/
+pretrained/
+result*/
+.ipynb_checkpoints*
+vgg16/
+wandb/
+task*/
